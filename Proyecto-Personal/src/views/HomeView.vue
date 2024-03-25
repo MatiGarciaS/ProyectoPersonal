@@ -23,6 +23,8 @@ store.getEvents()
 <!-- </div> -->
 
 </main>
+</template>
+<template>
 <main>
   <cardmenu />
 </main>
